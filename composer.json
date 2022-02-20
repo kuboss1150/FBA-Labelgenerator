@@ -1,0 +1,6 @@
+{
+    "require": {
+        "league/csv": "^9.5",
+        "faisalman/simple-excel-php": "^0.3.15"
+    }
+}

@@ -9,7 +9,7 @@
 
 ## Sample User
 
-- username: user@admin.com
+- username: user01@admin.com
 - password: 12345678
 
 ## Product Server
